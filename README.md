@@ -15,11 +15,10 @@ Se agregó un ejemplo de Validación de Formularios del lado del cliente usando,
 Se definieron las etiquetas de Formulario de HTML 5  y sus atributos usados para incluir validación
 <img src="https://github.com/cristianzambrano/eCommerce_TiendaVirtual/blob/main/capturas/AddProducto2.jpg" width="700" height="400">
 
-<img src="https://github.com/cristianzambrano/eCommerce_TiendaVirtual/blob/main/capturas/AddProducto3.jpg" width="700" height="400">
-
 - Javascript (Bootstrap y jQuery)
 Y validaciones usando jQuery y Boostrap
-<img src="https://github.com/cristianzambrano/eCommerce_TiendaVirtual/blob/main/capturas/AddProducto2.jpg" width="700" height="400">
+<img src="https://github.com/cristianzambrano/eCommerce_TiendaVirtual/blob/main/capturas/AddProducto3.jpg" width="700" height="400">
+<img src="https://github.com/cristianzambrano/eCommerce_TiendaVirtual/blob/main/capturas/AddProducto4.jpg" width="700" height="400">
 - Javascript (Angular JS)
 
 ## Validación Back-End 
