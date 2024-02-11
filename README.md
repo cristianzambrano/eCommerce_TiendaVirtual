@@ -20,6 +20,7 @@ Y validaciones usando jQuery y Boostrap
 <img src="https://github.com/cristianzambrano/eCommerce_TiendaVirtual/blob/main/capturas/AddProducto3.jpg" width="700" height="400">
 <img src="https://github.com/cristianzambrano/eCommerce_TiendaVirtual/blob/main/capturas/AddProducto4.jpg" width="700" height="400">
 - Javascript (Angular JS)
-
+<img src="https://github.com/cristianzambrano/eCommerce_TiendaVirtual/blob/main/capturas/ConexiónAPIRESTful.jpg" width="700" height="400">
+<img src="https://github.com/cristianzambrano/eCommerce_TiendaVirtual/blob/main/capturas/ListaProductos.jpg" width="700" height="400">
 ## Validación Back-End 
 
