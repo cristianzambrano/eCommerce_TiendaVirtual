@@ -81,8 +81,8 @@
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Productos</h6>
-                        <a class="collapse-item" href="#">Listado</a>
-                        <a class="collapse-item" href="#">Crear Nuevo</a>
+                        <a class="collapse-item" href="listaproducto.html">Listado</a>
+                        <a class="collapse-item" href="addproducto.html">Crear Nuevo</a>
                         
                     </div>
                 </div>
@@ -291,7 +291,7 @@
 
                                     <div class="col-sm-3" style="margin: 0.5em 0.5em 0.5em 0.5em;">
                                         <label for="txtImpuesto">% Impuesto</label>
-                                        <input type="number" class="form-control" id="txtImpuesto" name="txtImpuesto" step="0.01" value="0.00" max="10">
+                                        <input type="number" class="form-control" id="txtImpuesto" name="txtImpuesto" step="0.01" value="0.00" max="12">
                                         <small class="form-text text-muted">Introduce un número con hasta dos decimales.</small>
                                         
                                         <div class="invalid-feedback">Impuesto NO válido</div>
@@ -383,7 +383,7 @@
             var resp=fxValidaFrm();
             if(resp==""){
 
-                showSuccessModalMsg('Confirmación', "Producto registrado correctamente");
+                fxSaveProducto();
                 
             }else showErrorModalMsg('Error al registrar Producto', resp) ;
 
